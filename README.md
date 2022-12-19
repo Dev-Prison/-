@@ -37,6 +37,6 @@
 |   스터디날짜    | 발표자 |                                         주제                                          |
 |:----------:|:---:|:-----------------------------------------------------------------------------------:|
 | 2022.12.08 | 김형욱 | [1. 계층형 아키텍처의 문제는 무엇일까?](src/main/java/com/clean/document/ch1/계층형_아키텍처의_문제는_무엇일까.md) |
-| 2022.12.12 | 김병연 |            [2. 의존성 역전하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch2/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%97%AD%EC%A0%84%ED%95%98%EA%B8%B0.md)            |
-| 2022.12.14 | 이연우 | [3. 코드 구성하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch3/ch3_%EC%BD%94%EB%93%9C_%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.md)
+| 2022.12.12 | 김병연 | [2. 의존성 역전하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch2/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%97%AD%EC%A0%84%ED%95%98%EA%B8%B0.md) |
+| 2022.12.14 | 이연우 | [3. 코드 구성하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch3/ch3_%EC%BD%94%EB%93%9C_%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.md) |
 
