@@ -5,8 +5,8 @@
     
 ### ☕️ 스터디 규칙
 
-- 발표순서 : 이연우 - 김수미 - 이용훈 - **김형욱**
-- 스크럼마스터 : 이용훈 - **김수미** - 이연우 - 김형욱
+- 발표순서 : **이연우** - 김수미 - 이용훈 - 김형욱
+- 스크럼마스터 : 이용훈 - 김수미 - **이연우** - 김형욱
 - 스터디 **당일날 오후 6시까지** 발표자는 발표자료를 Github에 업로드 해야 합니다.
 - 발표자 외 스터디 시간 전까지 comment를 통해 주제마다 질문을 한개씩 등록해야 합니다.
     - comment를 달 때, `Files changed` → `Review Changes` 에서 `approve` 도 해주세요.
@@ -39,3 +39,4 @@
 | 2022.12.15 | 이연우 | [3. 코드 구성하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch3/ch3_%EC%BD%94%EB%93%9C_%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.md) |
 | 2022.12.19 | 김수미 | [4. 유스케이스 구현하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch4/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
 | 2022.12.22 | 이용훈 | [5. 계층형 아키텍처의 문제는 무엇일까?](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch5/%EC%9B%B9%20%EC%96%B4%ED%83%AD%ED%84%B0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
+| 2022.12.26 | 김형욱 | [6. 영속성 어댑터 구현하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch6/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%96%B4%EB%8C%91%ED%84%B0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
