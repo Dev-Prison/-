@@ -22,11 +22,8 @@
 
 ### 📌 스크럼 마스터가 해야할 일
 
-- 발표자 준비 자료 확인
-- 발표 전 `approve` 확인
-- 발표자 자료 외 merge 안된 PR merge 하도록 요청하기
 - main branch 최신화 확인
-- 발표 순서, 스마 Bold 처리 후 README 업데이트
+- 발표 순서, 스마 Bold 처리 및 README 업데이트
 <br>
 
 
