@@ -37,3 +37,4 @@
 | 2022.12.19 | 김수미 | [4. 유스케이스 구현하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch4/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
 | 2022.12.22 | 이용훈 | [5. 웹 어댑터 구현하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch5/%EC%9B%B9%20%EC%96%B4%ED%83%AD%ED%84%B0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
 | 2022.12.26 | 김형욱 | [6. 영속성 어댑터 구현하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch6/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%96%B4%EB%8C%91%ED%84%B0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md) |
+| 2022.12.29 | 이연우 | [7. 아키텍쳐 요소 테스트하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch7/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%EC%9A%94%EC%86%8C_%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0.md) |
