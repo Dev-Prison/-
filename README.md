@@ -5,8 +5,8 @@
     
 ### ☕️ 스터디 규칙
 
-- 발표순서 : **이연우** - 김수미 - 이용훈 - 김형욱
-- 스크럼마스터 : 이용훈 - **김수미** - 이연우 - 김형욱
+- 발표순서 : 이연우 - 김수미 - 이용훈 - 김형욱
+- 스크럼마스터 : 이용훈 - 김수미 - 이연우 - 김형욱
 - 스터디 시간 4시간 전 까지 발표자는 발표자료를 Github에 업로드 해야 합니다.
 - 발표자 외 스터디 시간 전까지 comment를 통해 주제마다 질문을 한개씩 등록해야 합니다.
     - comment를 달 때, `Files changed` → `Review Changes` 에서 `approve` 해주세요.
@@ -41,3 +41,5 @@
 | 2023.01.08 | 김수미 | [8. 경계 간 매핑하기](https://github.com/Dev-Prison/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch8/%EA%B2%BD%EA%B3%84%20%EA%B0%84%20%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0.md) |
 | 2023.01.09 | 이용훈 | [9. 애플리케이션 조립하기](https://github.com/YHLEE9753/Clean-Architecture/blob/main/src/main/java/com/clean/document/ch9/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A1%B0%EB%A6%BD%ED%95%98%EA%B8%B0.md) |
 | 2023.02.12 | 김형욱 | [10. 아키텍처 경계 강제하기](https://morning-paprika-8fa.notion.site/9dd979d053ba4b55bef38d2ba39f82f5) |
+| 2023.02.19 | 이연우 | [11. 의식적으로 지름길 사용하기](https://github.com/Dev-Prison/Clean-Architecture/blob/5bd8e7d7c8e6e4169e83432ccfcd0c147aa0d18d/src/main/java/com/clean/document/end/%EB%A7%88%EB%AC%B4%EB%A6%AC.md) |
+| 2023.02.19 | 김수미 | [12. 아키텍처 스타일 결정하기](https://cat-tungsten-c56.notion.site/4d01fb0e79704d56970be844576ee8e1) |
